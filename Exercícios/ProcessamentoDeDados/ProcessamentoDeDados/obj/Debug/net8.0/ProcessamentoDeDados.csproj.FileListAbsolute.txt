@@ -1,0 +1,15 @@
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.exe
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.deps.json
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.runtimeconfig.json
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.dll
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.pdb
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.sourcelink.json
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.dll
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\refint\ProcessamentoDeDados.dll
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.pdb
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.genruntimeconfig.cache
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Projetos\Exercícios\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ref\ProcessamentoDeDados.dll
