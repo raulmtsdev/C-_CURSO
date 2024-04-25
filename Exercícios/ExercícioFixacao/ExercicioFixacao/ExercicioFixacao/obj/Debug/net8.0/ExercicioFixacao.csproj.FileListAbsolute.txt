@@ -1,0 +1,15 @@
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.sourcelink.json
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\raulm\Desktop\C# Nélio\C#_CURSO\Exercícios\ExercícioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll
